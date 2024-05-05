@@ -1,0 +1,5 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+Sí puedo verlo, ya que el archivo está en ambas ramas
+
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+Que el archivo respuestas.txt solo existe en el main
